@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PapaBullDust
-- 👀 I’m interested in GoldenEye Source & SourcePawn
-- 🌱 I’m currently learning SourcePawn
+- 👀 I’m interested in GoldenEye Source, SourcePawn & Python
+- 🌱 I’m currently learning SourcePawn & Python
 
 <!---
 PapaBullDust/PapaBullDust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
